@@ -1,0 +1,7 @@
+{
+    "name": "ch.ocbnet.texturesplitter",
+    "displayName": "OCB Texture Splitter",
+    "version": "0.1.0",
+    "unity": "2018.3",
+    "description": "Split textures into grid cells."
+}

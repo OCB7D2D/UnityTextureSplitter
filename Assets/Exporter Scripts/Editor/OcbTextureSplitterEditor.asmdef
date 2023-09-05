@@ -1,0 +1,16 @@
+{
+    "name": "OcbTextureSplitterEditor",
+    "rootNamespace": "OcbTextureSplitter",
+    "references": [
+        "GUID:a8cf8fd0b21e116429c152842b770ca3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
